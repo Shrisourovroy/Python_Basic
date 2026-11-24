@@ -1,0 +1,12 @@
+num1 = 10
+num2 = 5
+
+print(num1+num2)
+print(num1/num2)
+print(num1*num2)
+print(num1%num2)
+
+num3 = 2
+print(num2//num3) # use // to take floor value
+
+print(num2**num3) # use ** to give the power of first number
