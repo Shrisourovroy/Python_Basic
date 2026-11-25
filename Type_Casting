@@ -1,0 +1,15 @@
+num1 = input("Enter first number: ") #default input string
+num2 = input("Enter 2nd number: ")
+
+sum = num1 + num2
+
+print("The sum is: "+sum) #here, we are using +, because sum is string here.
+
+sum1 = int(num1) + int(num2)
+print("The sum is: ",sum1) #after type casting, give the correct answer.
+
+
+num3 = int(input("Enter num3 : ")) #input data as a integer
+num4 = int(input("Enter num4 : "))
+sum2 = num3 + num4
+print("The sum is : ",sum2)
