@@ -1,0 +1,19 @@
+print("AREA OF TRIANGLE")
+print("-----------------")
+
+base = float(input("Enter the triangle base: "))
+height = float(input("Enter the triangle height: "))
+
+area = 0.5*base*height
+
+print("Area of the triangle: ",area)
+
+
+print("AREA OF A RECTANGLE")
+print("-----------------")
+
+width = float(input("Enter width: "))
+length = float(input("Enter length: "))
+
+area1 = width*length
+print("Area of the rectangle: ",area1)
