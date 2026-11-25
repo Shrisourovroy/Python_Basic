@@ -1,0 +1,10 @@
+from math import *
+
+print(max(10,20))
+print(min(10,20))
+print(abs(-4))
+print(pow(4,2))
+print(sqrt(4))
+print(round(3.6))
+print(floor(5.7))
+print(ceil(5.7))
