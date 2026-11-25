@@ -1,0 +1,16 @@
+num = 50
+print(type(num))
+
+num1 = 10
+num2 = 30
+
+print(f"{num1}+{num2}={num1+num2}")
+# f use for formatting
+
+print("Sourov Roy")
+print("01305119669")
+
+#to print in one line, we need use to end="" after 1st string
+
+print("Sourov Roy",end=" ")
+print("01305119669")
