@@ -1,0 +1,7 @@
+lt = input("Enter a alphabet : ")
+
+
+if lt == 'a' or lt == 'e' or lt == 'i' or lt == 'o' or lt == 'u' :
+    print("Vowel.......")
+else : 
+    print("Consonent.....")
